@@ -2,8 +2,7 @@
 title: 搖擺足跡 STEP SWING
 role: ""
 avatar_filename: step-swing-logo-01.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,9 +13,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
